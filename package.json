@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@google-cloud/opentelemetry-cloud-trace-exporter": "^0.3.0",
+    "@opentelemetry/api": "^0.8.3",
+    "@opentelemetry/core": "^0.8.3",
+    "@opentelemetry/node": "^0.8.3",
+    "@opentelemetry/plugin-http": "^0.8.3",
+    "@opentelemetry/plugin-https": "^0.8.3",
+    "@opentelemetry/plugin-ioredis": "^0.8.0",
+    "@opentelemetry/tracing": "^0.8.3",
+    "fastify": "^2.14.1"
+  }
+}
