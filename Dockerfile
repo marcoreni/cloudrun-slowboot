@@ -1,4 +1,4 @@
-FROM node:10.17.0 AS build-env
+FROM node:14.15.4-alpine AS build-env
 
 ENV NODE_ENV=production
 
